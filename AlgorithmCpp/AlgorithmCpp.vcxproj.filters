@@ -32,5 +32,11 @@
     <ClInclude Include="myShit_A_Star.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="divideConquer_FENCE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="divideConquer_FANMEETING.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

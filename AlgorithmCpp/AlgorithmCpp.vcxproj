@@ -142,6 +142,8 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="divideConquer_FANMEETING.h" />
+    <ClInclude Include="divideConquer_FENCE.h" />
     <ClInclude Include="myShit_A_Star.h" />
     <ClInclude Include="dynamicProgramming_SNAIL.h" />
     <ClInclude Include="dynamicProgramming_TRIPATHCNT.h" />
